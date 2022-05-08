@@ -52,87 +52,8 @@ D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.c
 D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
 D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
 D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Lab6.exe.config
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Lab6.exe
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Lab6.pdb
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\cvextern.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\concrt140.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\msvcp140.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\msvcp140_1.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\msvcp140_2.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\vcruntime140.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\vcruntime140_1.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\bin\x64\Debug\System.Drawing.Common.dll
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.Form1.resources
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
-C:\Users\ioana\OneDrive\Desktop\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.exe.config
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.exe
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.pdb
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\cvextern.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\concrt140.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_1.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_2.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\vcruntime140.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\vcruntime140_1.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\bin\x64\Debug\System.Drawing.Common.dll
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.Form1.resources
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
-C:\Users\ioana\source\repos\Editare audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.exe.config
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.exe
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Lab6.pdb
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\cvextern.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\concrt140.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_1.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_2.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\vcruntime140.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\vcruntime140_1.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\bin\x64\Debug\System.Drawing.Common.dll
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.Form1.resources
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
-C:\Users\ioana\source\repos\Editare_audio-video\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.pdb
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Lab6.exe.config
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Lab6.exe
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Lab6.pdb
@@ -151,6 +72,8 @@ C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Deb
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\vcruntime140_1.dll
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Operations.dll
+C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\bin\x64\Debug\Operations.pdb
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
 C:\Users\ioana\Documents\GitHub\Laboratoare-Editare-Audio-Video\Lab6\obj\x64\Debug\Lab6.Form1.resources

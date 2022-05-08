@@ -204,6 +204,21 @@
             "rid": "win"
           }
         }
+      },
+      "Operations/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Emgu.CV.UI": "4.5.5.4823",
+          "Emgu.CV.runtime.windows": "4.5.5.4823",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operations.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.7.2/win": {
@@ -316,6 +331,21 @@
         },
         "runtime": {
           "runtimes/win/lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll": {}
+        }
+      },
+      "Operations/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Emgu.CV.UI": "4.5.5.4823",
+          "Emgu.CV.runtime.windows": "4.5.5.4823",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operations.dll": {}
         }
       }
     },
@@ -444,6 +474,21 @@
         "runtime": {
           "lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll": {}
         }
+      },
+      "Operations/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Emgu.CV.UI": "4.5.5.4823",
+          "Emgu.CV.runtime.windows": "4.5.5.4823",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operations.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.7.2/win-x86": {
@@ -569,6 +614,21 @@
         },
         "runtime": {
           "lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll": {}
+        }
+      },
+      "Operations/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Emgu.CV.UI": "4.5.5.4823",
+          "Emgu.CV.runtime.windows": "4.5.5.4823",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Operations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operations.dll": {}
         }
       }
     }
@@ -906,13 +966,19 @@
         "system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
         "system.runtime.interopservices.runtimeinformation.nuspec"
       ]
+    },
+    "Operations/1.0.0": {
+      "type": "project",
+      "path": "../Operations/Operations.csproj",
+      "msbuildProject": "../Operations/Operations.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "Emgu.CV.UI >= 4.5.5.4823",
       "Emgu.CV.runtime.windows >= 4.5.5.4823",
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "Operations >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -946,7 +1012,11 @@
       },
       "frameworks": {
         "net472": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ioana\\Documents\\GitHub\\Laboratoare-Editare-Audio-Video\\Operations\\Operations.csproj": {
+              "projectPath": "C:\\Users\\ioana\\Documents\\GitHub\\Laboratoare-Editare-Audio-Video\\Operations\\Operations.csproj"
+            }
+          }
         }
       }
     },

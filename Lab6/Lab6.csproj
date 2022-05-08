@@ -114,5 +114,11 @@
     <Content Include="cat.jpg" />
     <Content Include="Untitled.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Operations\Operations.csproj">
+      <Project>{eba004a1-962d-4dbf-8424-50feba195cbe}</Project>
+      <Name>Operations</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
