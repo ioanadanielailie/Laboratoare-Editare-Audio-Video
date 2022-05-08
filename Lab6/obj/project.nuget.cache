@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGEDG6yvN10HGMYn4TIS7FodbhKaQf3OEowqh+a8eMiywTM+EZcAawLeIYy+GDvsvoF6BQ5ygqVsZ5bizbbMnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ioana\\Documents\\GitHub\\Laboratoare-Editare-Audio-Video\\Lab6\\Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.cv\\4.5.5.4823\\emgu.cv.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.cv.bitmap\\4.5.5.4823\\emgu.cv.bitmap.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.cv.runtime.windows\\4.5.5.4823\\emgu.cv.runtime.windows.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.cv.ui\\4.5.5.4823\\emgu.cv.ui.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.29.30138\\emgu.runtime.windows.msvc.rt.x64.19.29.30138.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.29.30138\\emgu.runtime.windows.msvc.rt.x86.19.29.30138.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\ioana\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

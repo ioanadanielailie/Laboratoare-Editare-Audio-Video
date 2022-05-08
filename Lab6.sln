@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Debug|x64.ActiveCfg = Debug|x64
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Debug|x64.Build.0 = Debug|x64
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Release|x64.ActiveCfg = Release|x64
+		{CF48BAAD-C5D9-4B75-BABB-BDFFF6799F6D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F5CECD-85ED-4A17-A8C2-82E22FB6C7FF}
+	EndGlobalSection
+EndGlobal
